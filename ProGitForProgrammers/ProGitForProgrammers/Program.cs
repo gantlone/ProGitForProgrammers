@@ -9,7 +9,7 @@ namespace ProGitForProgrammers
             Console.WriteLine("Hello World!");
             Console.WriteLine("I just added this in Visual Studio");
             Console.WriteLine("This line add to show the staging area");
-            Console.WriteLine("add commit 同步");
+            Console.WriteLine("add commit 同步 辛苦囉澳金");
 
         }
     }
